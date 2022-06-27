@@ -1,0 +1,68 @@
+.form-control{
+    width: 500px;
+    margin-left:150px;
+}
+.form-select{
+   
+    margin-left:100 px ;
+}
+.card{
+    width: 300px;
+    padding: 16px;
+    margin-left: 3%;
+    margin-top: 100px;
+    backdrop-filter: blur(20px);
+    background-color: rgba(255, 255, 255, 0.2);
+    text-align: center;
+    border: solid;
+
+    border-image-slice: 1;
+
+    border-width: 5px;
+
+    border-image-source: linear-gradient(
+
+        60deg,#7EE8FA,#EEC0C6
+
+    );
+   
+}
+.body{
+    margin-top: 10px;
+   
+}
+.back{
+    background-image: url("https://wallpapercave.com/wp/wp1929358.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
+}
+.btn{
+border-radius: 0;
+
+}
+.logo{
+    height: 55px;
+}
+
+.logo{
+    height:55px;
+}
+
+
+.title{
+    position: relative;
+    margin-right: auto;
+}
+.price{
+    position: relative;
+    margin-left: auto;
+    top: -28px;
+}
+.Image{
+    width: 250px;
+    height: 200px;
+}
+  
+ 
+  
+
